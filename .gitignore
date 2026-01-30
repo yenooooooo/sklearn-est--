@@ -1,0 +1,15 @@
+.env
+*.csv
+*.zip
+*.rar
+*.7z
+AutogluonModels/
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.h5
+*.joblib
+.DS_Store
+submission/
+data/
